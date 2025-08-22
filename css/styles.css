@@ -4,7 +4,7 @@ box-sizing: border-box;
 }
 
 body, html {
-    background-color: #0f0f0f;
+    background-color: #20172c;
     position: relative; /* Add this */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-repeat: no-repeat;
@@ -15,7 +15,7 @@ header {
     display: flex;
     justify-content: space-between;
     gap: 50px;
-    background-color: rgb(26, 16, 16);
+    background-color: rgb(26, 14, 41);
     color: white;
     height: 50px;
     align-items: center;
