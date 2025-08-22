@@ -67,7 +67,8 @@ box-sizing: border-box;
  .skill-cont-spec {
     width: 50%;
     display: flex;
-    justify-content: space-evenly;
+    gap: 1rem;
+    justify-content: space-evenly ;
  }
 
  .spec{
@@ -80,8 +81,8 @@ box-sizing: border-box;
     border-radius: 10px; 
     width: 100px;
     align-items: center;
-    justify-content: space-evenly;
-    padding: 20px 30px;
+    /* justify-content: space-evenly; */
+    padding: 10px 10px;
  }
 .skills{
     color:rgb(253, 124, 253);
